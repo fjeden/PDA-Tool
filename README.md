@@ -15,5 +15,3 @@ Darüber hinaus wurden stellenweise Parameter und Wertemöglichkeiten aus den An
 Weiterhin wurden die so zusammengestellten Informationsanforderungen durch eine entsprechende Praxisbeteiligung ergänzt sowie validiert.
 
 Weitere Informationen zum Projekt [DeConDB](https://daten.plus/projekte/de-con-db) können Sie unserem [Projektblog](https://blog.rwth-aachen.de/decondb/) entnehmen.
-Bei weiteren Anmerkungen/Fragen gerne [Fabian Edenhofner](https://www.icom.rwth-aachen.de/cms/icom/Das-Institut/Team/Kontaktdaten/Research-Assistants/~ptkpf/Edenhofner-Fabian/) kontaktieren.
-
